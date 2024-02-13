@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/jerryjakesmoore/static/css/main.12ada77f.css",
+    "main.js": "/jerryjakesmoore/static/js/main.2befa4f1.js",
+    "static/js/787.6dac1136.chunk.js": "/jerryjakesmoore/static/js/787.6dac1136.chunk.js",
+    "static/media/laptop1.jpg": "/jerryjakesmoore/static/media/laptop1.4e3172d815a2b76cead7.jpg",
+    "static/media/laptop5.jpg": "/jerryjakesmoore/static/media/laptop5.e4da55f5a721f8fed571.jpg",
+    "static/media/glass1.jpg": "/jerryjakesmoore/static/media/glass1.14a47c6bca5cf270b3cf.jpg",
+    "static/media/laptop4.jpg": "/jerryjakesmoore/static/media/laptop4.4cc15a011749d1e41ec2.jpg",
+    "static/media/laptop2.jpg": "/jerryjakesmoore/static/media/laptop2.e49faccea00dbfe6cc61.jpg",
+    "static/media/airpod2.jpg": "/jerryjakesmoore/static/media/airpod2.8b78ae7b377a9e350f1f.jpg",
+    "static/media/airpod1.jpg": "/jerryjakesmoore/static/media/airpod1.2f99ad3dcb11856e46b7.jpg",
+    "static/media/glass7.jpg": "/jerryjakesmoore/static/media/glass7.993155b9b3c7e76e3ddd.jpg",
+    "static/media/watch2.jpg": "/jerryjakesmoore/static/media/watch2.e923a8c74baa12dc336a.jpg",
+    "static/media/watch5.jpg": "/jerryjakesmoore/static/media/watch5.63e458c7c5f1c0cea7eb.jpg",
+    "static/media/glass2.jpg": "/jerryjakesmoore/static/media/glass2.429c9c14f90ffacb0a1f.jpg",
+    "static/media/glass5.jpg": "/jerryjakesmoore/static/media/glass5.a396890dffac043a369f.jpg",
+    "static/media/airpod7.jpg": "/jerryjakesmoore/static/media/airpod7.99136a97df4e5d5dffb6.jpg",
+    "static/media/glass4.jpg": "/jerryjakesmoore/static/media/glass4.381d3e128ea080447260.jpg",
+    "static/media/airpod5.jpg": "/jerryjakesmoore/static/media/airpod5.560b31f8dc8bcc74a732.jpg",
+    "static/media/airpod3.jpg": "/jerryjakesmoore/static/media/airpod3.842a9177f81f7a651660.jpg",
+    "static/media/watch4.jpg": "/jerryjakesmoore/static/media/watch4.02a1ec68c4ce33ed1240.jpg",
+    "static/media/bg-watct1.jpg": "/jerryjakesmoore/static/media/bg-watct1.6643332fc311bc055453.jpg",
+    "static/media/glass3.jpg": "/jerryjakesmoore/static/media/glass3.c5f0a7362aa7ff8f6771.jpg",
+    "static/media/airpod8.jpg": "/jerryjakesmoore/static/media/airpod8.3d4d0c5680b697668cc3.jpg",
+    "static/media/laptop3.jpg": "/jerryjakesmoore/static/media/laptop3.8aa2020abe4ef4bf8da9.jpg",
+    "static/media/airpod4.jpg": "/jerryjakesmoore/static/media/airpod4.9a492adebadad17d7163.jpg",
+    "index.html": "/jerryjakesmoore/index.html",
+    "main.12ada77f.css.map": "/jerryjakesmoore/static/css/main.12ada77f.css.map",
+    "main.2befa4f1.js.map": "/jerryjakesmoore/static/js/main.2befa4f1.js.map",
+    "787.6dac1136.chunk.js.map": "/jerryjakesmoore/static/js/787.6dac1136.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ada77f.css",
+    "static/js/main.2befa4f1.js"
+  ]
+}
